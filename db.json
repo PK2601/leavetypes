@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "key": "1",
+      "leavetypeid": 1,
+      "leavetypecode": 101,
+      "leavetypename": "Annual Leave"
+    },
+    {
+      "key": "2",
+      "leavetypeid": 2,
+      "leavetypecode": 102,
+      "leavetypename": "Medical Leave"
+    },
+    {
+      "key": "3",
+      "leavetypeid": 3,
+      "leavetypecode": 103,
+      "leavetypename": "Sick Leave"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
